@@ -1,1 +1,1 @@
-"Ctrl-x f"
+"C-x C-s".
